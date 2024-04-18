@@ -11419,3 +11419,30 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 	padding-left: 25px;
 	padding-right: 25px;
 }
+
+.footer-socials {
+	text-align: center;
+}
+
+.footer-socials h4 {
+	margin-bottom: 20px;
+}
+
+.footer-socials ul {
+	list-style: none;
+	padding: 0;
+}
+
+.footer-socials ul li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.footer-socials ul li a {
+	color: #333; /* Change this to your preferred color */
+	font-size: 20px; /* Change this to your preferred size */
+}
+
+.footer-socials ul li a:hover {
+	color: #EEB149; /* Change this to your preferred hover color */
+}
